@@ -19,4 +19,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSonco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Estudante de ciência da computação na Universidade Federal do Pampa, UNIPAMPA. 
