@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leonardo Sonco 👋
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando React JS
 
 [![Blog](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://leonardosonco.github.io/Portifolio/)](https://leonardosonco.github.io/Portifolio/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-sonco-0366441b7/)
